@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## dev card
-<img width="667" alt="image" src="https://user-images.githubusercontent.com/96971337/198034516-9b499bcc-77f0-422c-8227-ddeb8b6dc4f3.png">
+<a href="https://app.daily.dev/av153k"><img src="https://github.com/saniasingh/saniasingh/blob/main/devcard.svg" width="400" alt="Sania Singh's Dev Card"/></a>
 
