@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## dev card
-<a href="https://app.daily.dev/av153k"><img src="https://api.daily.dev/devcards/df159c36315342e2b96db1ec40358a06.png?r=r9w" width="400" alt="Sania Singh's Dev Card"/></a>
+<a href="https://app.daily.dev/saniasingh"><img src="https://api.daily.dev/devcards/df159c36315342e2b96db1ec40358a06.png?r=t64" width="400" alt="Sania Singh's Dev Card"/></a>
 
