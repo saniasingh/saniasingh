@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sania Singh.
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on ReactJS projects.
-- 📫 How to reach me - saniasingh4in@gmail.com
+- 🌱 I’m currently learning Vue JS.
+- 💞️ I’m looking to collaborate on JavaScripts projects.
+- 📫 How to reach me - saniasingh597@gmail.com
 
 <!---
 saniasingh/saniasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
