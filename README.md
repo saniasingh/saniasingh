@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sania Singh.
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning Vue JS.
+- 🌱 I’m currently working as a Vue JS developer since Dec 2022.
 - 💞️ I’m looking to collaborate on JavaScripts projects.
 - 📫 How to reach me - saniasingh597@gmail.com
 
